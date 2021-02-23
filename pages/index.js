@@ -7,6 +7,9 @@ export default function Home() {
       <Link href="/about">
         <button>Click!</button>
       </Link>
+      <Link href="/post/1">
+        <button>Post 1</button>
+      </Link>
     </>
   );
 }
