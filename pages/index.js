@@ -23,8 +23,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>안녕하세요👋</p>
         <p>
-          Next.js 튜토리얼을 참고하여 만든 웹사이트{" "}
-          <a href="https://nextjs.org/learn">Next.js tutorial</a>
+          Next.js 튜토리얼을 참고하여 만든 웹사이트입니다.{" "}
+          <a href="https://nextjs.org/learn">Next.js 튜토리얼 &rarr;</a>
         </p>
       </section>
       <Link href="/posts/first-post">
